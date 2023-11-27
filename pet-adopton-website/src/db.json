@@ -1,0 +1,46 @@
+{
+    "users": [
+      {
+        "name": "Aysha",
+        "id": 1001,
+        "email": "727722euit027@skcet.ac.in",
+        "number": 8122667739,
+        "password": "aysha123"
+      },
+      {
+        "name": "Aysha",
+        "id": 1001,
+        "email": "727722euit027@skcet.ac.in",
+        "number": 9629667739,
+        "password": "aysha123"
+      },
+      {
+        "name": "Divi",
+        "id": 1002,
+        "email": "727722euit045@skcet.ac.in",
+        "number": 7288190233,
+        "password": "divi123"
+      },
+      {
+        "name": "Ashmi",
+        "id": 1003,
+        "email": "727722euit021@skcet.ac.in",
+        "number": 8122668850,
+        "password": "ashmi123"
+      },
+      {
+        "name": "Atchaya",
+        "id": 1004,
+        "email": "727722euit0502@skcet.ac.in",
+        "number": 8122668850,
+        "password": "atchu123"
+      },
+      {
+        "name": "Ammar",
+        "id": 1005,
+        "email": "727722euit020@skcet.ac.in",
+        "number": 9361928850,
+        "password": "ammar123"
+      }
+    ]
+  }
